@@ -3,3 +3,6 @@
 *.csv
 .ipynb_checkpoints
 .env
+*.png
+/images
+/out
